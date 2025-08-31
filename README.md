@@ -105,3 +105,4 @@ pip install -r requirements.txt
 - Build a production-ready price prediction API  
 - Incorporate time-series trends (seasonality of sales)  
 - Expand dataset with external features (schools, crime rates, economic indicators)  
+
