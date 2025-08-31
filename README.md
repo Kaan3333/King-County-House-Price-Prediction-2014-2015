@@ -80,6 +80,13 @@ Exploring housing market dynamics in King County (Seattle area) by analyzing pro
 - Python **3.9+**  
 - `pip` and `virtualenv`/`venv` recommended  
 
+## ▶️ Run Analysis
+1. Open **`EDA_house_prices.ipynb`** in Jupyter Notebook or JupyterLab  
+2. Execute all cells to reproduce results  
+3. Visualizations are saved in `figures/`  
+
+--- 
+
 ### Setup
 ```bash
 # Clone repository
@@ -93,16 +100,5 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-## ▶️ Run Analysis
-1. Open **`EDA_house_prices.ipynb`** in Jupyter Notebook or JupyterLab  
-2. Execute all cells to reproduce results  
-3. Visualizations are saved in `figures/`  
 
----
-
-## 🚀 Next Steps
-- Hyperparameter tuning for XGBoost and Random Forest (already partially explored)  
-- Build a production-ready price prediction API  
-- Incorporate time-series trends (seasonality of sales)  
-- Expand dataset with external features (schools, crime rates, economic indicators)  
 
