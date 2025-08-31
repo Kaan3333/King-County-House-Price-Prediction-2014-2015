@@ -80,12 +80,6 @@ Exploring housing market dynamics in King County (Seattle area) by analyzing pro
 - Python **3.9+**  
 - `pip` and `virtualenv`/`venv` recommended  
 
-## ▶️ Run Analysis
-1. Open **`EDA_house_prices.ipynb`** in Jupyter Notebook or JupyterLab  
-2. Execute all cells to reproduce results  
-3. Visualizations are saved in `figures/`  
-
---- 
 
 ### Setup
 ```bash
