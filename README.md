@@ -84,7 +84,7 @@ Exploring housing market dynamics in King County (Seattle area) by analyzing pro
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/kingcounty-houseprices.git
+git clone https://github.com/Kaan3333/kingcounty-houseprices.git
 cd kingcounty-houseprices
 
 # Create virtual environment
